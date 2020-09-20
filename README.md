@@ -4,3 +4,4 @@
 - Relevant links:
     - What is a Nonogram? - [Wikipedia](https://en.wikipedia.org/wiki/Nonogram)
     - Source of puzzles - [onlinenonograms.com](https://onlinenonograms.com)
+    - See notebook main_nonogram.ipynb for demonstration.
