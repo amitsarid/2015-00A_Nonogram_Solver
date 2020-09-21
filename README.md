@@ -1,4 +1,5 @@
-# Introduction
+# Nonogram Solver
+
 - **Nonogram Solver** - Started sometime in 2014.
 - The goal of this project is to  build an algorithm that solves nonogram puzzles. 
 - Relevant links:
